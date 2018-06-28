@@ -1,0 +1,25 @@
+this file contains the code and file standards to be used in this project.
+
+File and directory:
+all files an directories should be saved in the following formats.
+single work file and directories should have the first letter capitalized
+as in "Resources" or "Data"
+
+all files with two word should have the first letter of each the name 
+capitalized and connected by an underscore.
+as in "Analysis_Files" or "Papers_To_Read"
+
+Variables:
+first letter capitalized and connected by an underscore
+as in "This_Variable" or "Variable"
+
+variable names should be as descriptive as possible.
+
+Functions:
+first letter capitalized and each word joined with no space
+as in "ThisFunction" or "Function"
+
+DataFrame object:
+same as variable but end in "DF"
+as in "This_Dataframe_DF"
+
