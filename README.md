@@ -2,6 +2,7 @@
 
 When examining data related to Arabica coffee beans can we determine factors that influence price?  Using historical data on production factors such as weather and disease and demand factors such as economics we will examine the top five coffee producing and coffee consuming countries and attempt to forecast one year of daily data.
 
+![alt text](Pictures/Coffee_world.png)
 
 ## Coffee Facts
 
