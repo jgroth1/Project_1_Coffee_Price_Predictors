@@ -20,6 +20,9 @@ When examining data related to Arabica coffee beans can we determine factors tha
 
 * Major exporters are : Columbia, Peru, India, Uganda, Ethiopia, Mexico, Cote Ivoire.
 
+![alt text](Pictures/Top_5_Producers.png)
+
+![alt text](Pictures/Coffee_Berry.png)
 ## Forcasting Results:
 
 ### Ridge Regression Vs. Lasso Regression Vs. Lasso with Outliers Removed
