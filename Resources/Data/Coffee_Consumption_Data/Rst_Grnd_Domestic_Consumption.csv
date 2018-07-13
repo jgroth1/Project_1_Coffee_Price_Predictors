@@ -1,0 +1,41 @@
+Commodity_Code,Commodity_Description,Country_Code,Country_Name,Market_Year,Calendar_Year,Month,Attribute_ID,Attribute_Description,Unit_ID,Unit_Description,Value
+711100,"Coffee, Green",BR,Brazil,2012,2013,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),18905
+711100,"Coffee, Green",BR,Brazil,2013,2014,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),19000
+711100,"Coffee, Green",BR,Brazil,2014,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),19130
+711100,"Coffee, Green",BR,Brazil,2015,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),19325
+711100,"Coffee, Green",BR,Brazil,2016,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),19750
+711100,"Coffee, Green",BR,Brazil,2017,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),20500
+711100,"Coffee, Green",BR,Brazil,2018,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),21150
+711100,"Coffee, Green",BR,Brazil,2019,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),21820
+711100,"Coffee, Green",E4,European Union,2012,2015,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),43005
+711100,"Coffee, Green",E4,European Union,2013,2015,12,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),40930
+711100,"Coffee, Green",E4,European Union,2014,2015,12,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),39195
+711100,"Coffee, Green",E4,European Union,2015,2016,12,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),41390
+711100,"Coffee, Green",E4,European Union,2016,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),41990
+711100,"Coffee, Green",E4,European Union,2017,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),42485
+711100,"Coffee, Green",E4,European Union,2018,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),42685
+711100,"Coffee, Green",E4,European Union,2019,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),43000
+711100,"Coffee, Green",JA,Japan,2012,2015,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),6460
+711100,"Coffee, Green",JA,Japan,2013,2016,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),6815
+711100,"Coffee, Green",JA,Japan,2014,2015,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),6910
+711100,"Coffee, Green",JA,Japan,2015,2017,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),7045
+711100,"Coffee, Green",JA,Japan,2016,2017,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),7250
+711100,"Coffee, Green",JA,Japan,2017,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),7295
+711100,"Coffee, Green",JA,Japan,2018,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),7285
+711100,"Coffee, Green",JA,Japan,2019,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),7180
+711100,"Coffee, Green",RP,Philippines,2012,2013,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),100
+711100,"Coffee, Green",RP,Philippines,2013,2014,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),100
+711100,"Coffee, Green",RP,Philippines,2014,2016,12,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),100
+711100,"Coffee, Green",RP,Philippines,2015,2016,12,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),100
+711100,"Coffee, Green",RP,Philippines,2016,2017,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),200
+711100,"Coffee, Green",RP,Philippines,2017,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),250
+711100,"Coffee, Green",RP,Philippines,2018,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),400
+711100,"Coffee, Green",RP,Philippines,2019,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),400
+711100,"Coffee, Green",US,United States,2012,2015,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),22821
+711100,"Coffee, Green",US,United States,2013,2015,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),22687
+711100,"Coffee, Green",US,United States,2014,2015,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),23446
+711100,"Coffee, Green",US,United States,2015,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),23098
+711100,"Coffee, Green",US,United States,2016,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),25004
+711100,"Coffee, Green",US,United States,2017,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),25029
+711100,"Coffee, Green",US,United States,2018,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),25465
+711100,"Coffee, Green",US,United States,2019,2018,6,141,"Rst,Ground Dom. Consum",2,(1000 60 KG BAGS),26550
