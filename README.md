@@ -72,6 +72,8 @@ MAE = $12.84
 
 ## Lasso Regression + ARIMA Results:
 
+The final model was made as a combination of the Lasso regression
+
 ![alt text](Analysis/Pictures/arima1.png)
 
 ![alt text](Analysis/Pictures/Lasso_with_Error.png)
